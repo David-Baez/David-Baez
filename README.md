@@ -4,8 +4,6 @@
 
 ㅤ [<img alt="Github @David_Baez" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/300px-Android_logo_2019_%28stacked%29.svg.png" width="240">](https://github.com/David-Baez)
 
-
-
 <img src="https://f-droid.org/repo/com.termux/en-US/icon_7jMZ7XD80oeucmGEaTwktIRZexLtGWvJfKdVD6Wu2SI=.png" height="100px" width="100px"/>
 
 # ***<a href="https://termux.com"> Termux </a>***
@@ -21,8 +19,6 @@
 ㅤ[<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="240">](https://play.google.com/store/apps/details?id=com.termux ) 
 
 ㅤ[<img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="240">](https://f-droid.org/en/packages/com.termux )
-
-
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8H4zu2OcPrZ1QBw1eg6KVxf4Qykn-xj4fw&usqp=CAU" height="100px" width="100px"/>
 
@@ -56,12 +52,11 @@
 
 ㅤ[<img alt="Get it on F-Droid" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="240">](https://f-droid.org/packages/me.zhanghai.android.files)
 
-
-
 # ***<a href="https://github.com/David-Baez"> Contáctame </a>***
 
 Alias en ***Telegram*** <a href="http://t.me/David_Baez">@David_Baez</a>
 
 [<img alt="Get it on Telegram" src="https://img.captain-droid.com/wp-content/uploads/2018/01/org-telegram-messenger-icon.png.webp" width="60">](http://t.me/David_Baez)
 
-ㅤㅤㅤ [<img alt="Github @David_Baez" src="https://www.pngplay.com/wp-content/uploads/7/Cybersecurity-PNG-Photos.png" width="240">](https://github.com/David-Baez)
+ㅤㅤㅤㅤ[<img alt="Github @David_Baez" src="https://www.pngplay.com/wp-content/uploads/7/Cybersecurity-PNG-Photos.png" width="240">](https://github.com/David-Baez)
+ㅤㅤㅤㅤ[<img alt="Github @David_Baez" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrNEXB12MpuRCtEN0CWhMN5f8cD-Gt86tcIA&usqp=CAU" width="240">](https://github.com/David-Baez)
