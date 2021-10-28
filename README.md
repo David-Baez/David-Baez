@@ -74,6 +74,26 @@
 
 
 
+[<img alt="Kali Linux" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" width="240">](https://www.kali.org)
+
+# *<a href="https://www.kali.org"> Kali Linux </a>*
+
+> Kali Linux es una distribución basada en Debian GNU/Linux diseñada principalmente para la auditoría y seguridad informática en general. Fue fundada y es mantenida por Offensive Security Ltd. Mati Aharoni y Devon Kearns, ambos pertenecientes al equipo de Offensive Security, desarrollaron la distribución a partir de la reescritura de BackTrack, que se podría denominar como la antecesora de Kali Linux.
+
+[<img alt="Kali Linux" src="https://www.kali.org/images/notebook.svg" width="240">](https://www.kali.org)
+
+[<img alt="Kali Linux" src="https://www.kali.org/images/notebook-kali-2021.2.jpg" width="240">](https://www.kali.org)
+
+[<img alt="Kali Linux" src="https://www.kali.org/images/kali-desktop-xfce.jpg" width="240">](https://www.kali.org)
+
+[<img alt="Kali Linux" src="https://www.kali.org/images/kali-desktop-kde.jpg" width="240">](https://www.kali.org)
+
+### *<a href="https://www.kali.org/get-kali/">DESCARGA KALI LINUX</a>*
+
+[<img alt="Kali Linux" src="http://assets.stickpng.com/thumbs/586abf6db6fc1117b60b2753.png" width="240">](https://www.kali.org)
+
+
+
 # ***<a href="https://github.com/David-Baez"> Contáctame </a>***
 
 Alias en ***Telegram*** <a href="http://t.me/David_Baez">@David_Baez</a>
