@@ -90,8 +90,7 @@
 
 ### *<a href="https://www.kali.org/get-kali/">DESCARGA KALI LINUX</a>*
 
-[<img alt="Kali Linux" src="http://assets.stickpng.com/thumbs/586abf6db6fc1117b60b2753.png" width="240">](https://www.kali.org)
-
+[<img alt="Kali Linux" src="https://manceppo.com/wp-content/uploads/2019/05/download-button.png" width="240">](https://www.kali.org)
 
 
 # ***<a href="https://github.com/David-Baez"> Contáctame </a>***
