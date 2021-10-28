@@ -84,7 +84,7 @@ Alias en ***Telegram*** <a href="http://t.me/David_Baez">@David_Baez</a>
 
 
 
-ㅤㅤㅤㅤ[<img alt="Github @David_Baez" src="https://www.pngplay.com/wp-content/uploads/7/Cybersecurity-PNG-Photos.png" width="240">](https://github.com/David-Baez)
+ㅤㅤㅤㅤㅤ[<img alt="Github @David_Baez" src="https://www.pngplay.com/wp-content/uploads/7/Cybersecurity-PNG-Photos.png" width="200">](https://github.com/David-Baez)
 
 
 
