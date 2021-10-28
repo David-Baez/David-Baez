@@ -2,7 +2,7 @@
 
 # ***Empieza con éstas herramientas***
 
-[<img alt="Github @David_Baez" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/300px-Android_logo_2019_%28stacked%29.svg.png" width="240">](https://github.com/David-Baez)
+ㅤ [<img alt="Github @David_Baez" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/300px-Android_logo_2019_%28stacked%29.svg.png" width="240">](https://github.com/David-Baez)
 
 
 
