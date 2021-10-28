@@ -1,14 +1,12 @@
-Cambiemos el nombre de \*our-new-project\* a \*our-old-project\*.
-
-
-
-
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR811yffgltfUJ-S3IxdFWMUDa2BjplyiMt6w&usqp=CAU" height="150px" width="400px"/>
 
-
-
 # ***Empieza con éstas herramientas***
+
+[<img alt="Github @David_Baez" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/300px-Android_logo_2019_%28stacked%29.svg.png" width="240">](https://github.com/David-Baez)
+
+
+
+
 
 
 
