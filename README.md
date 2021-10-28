@@ -5,7 +5,8 @@
 
 
 
-## ***Empieza con éstas herramientas***
+
+# ***Empieza con éstas herramientas***
 
 
 
@@ -17,8 +18,7 @@
 
 
 
-<img src="https://f-droid.org/repo/com.termux/en-US/icon_7jMZ7XD80oeucmGEaTwktIRZexLtGWvJfKdVD6Wu2SI=.png" height="100px" width="100px"/>
-
+> [<img alt="Github @David_Baez" src="https://f-droid.org/repo/com.termux/en-US/icon_7jMZ7XD80oeucmGEaTwktIRZexLtGWvJfKdVD6Wu2SI=.png" width="100">](https://github.com/David-Baez)
 # ***<a href="https://termux.com"> Termux </a>***
 
 > Termux es un emulador de terminal de Android y una aplicación de entorno Linux que funciona directamente sin necesidad de enraizamiento ni configuración. Se instala automáticamente un sistema básico mínimo; hay paquetes adicionales disponibles mediante el administrador de paquetes APT.
@@ -37,8 +37,7 @@
 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8H4zu2OcPrZ1QBw1eg6KVxf4Qykn-xj4fw&usqp=CAU" height="100px" width="100px"/>
-
+> [<img alt="Github @David_Baez" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8H4zu2OcPrZ1QBw1eg6KVxf4Qykn-xj4fw&usqp=CAU" width="100">](https://github.com/David-Baez)
 # ***<a href="https://github.com/zhanghai/MaterialFiles"> Material Files </a>***
 
 > Un administrador de archivos de diseño de Material Design de código abierto.
@@ -73,7 +72,7 @@
 
 
 
-[<img alt="Kali Linux" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" width="240">](https://www.kali.org)
+> [<img alt="Kali Linux" src="https://www.pinclipart.com/picdir/big/107-1077742_kali-linux-kali-linux-logo-png-clipart.png" width="240">](https://www.kali.org)
 
 # *<a href="https://www.kali.org"> Kali Linux </a>*
 
