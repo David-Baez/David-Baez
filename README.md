@@ -1,4 +1,4 @@
-[<img alt="Github @David_Baez" src="https://raw.githubusercontent.com/David-Baez/David-Baez/main/Presentaci%C3%B3n.jpg" width="400">](https://github.com/David-Baez)
+[<img alt="Github @David_Baez" src="https://raw.githubusercontent.com/David-Baez/David-Baez/main/Im%C3%A1genes/Presentaci%C3%B3n.jpg" width="400">](https://github.com/David-Baez)
 
 [<img alt="Github @David_Baez" src="https://cdnm.synack.com/wp-content/uploads/2021/03/SRT-HeroBanner-Hacker5.png" width="240">](https://github.com/David-Baez)
 
