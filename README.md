@@ -1,6 +1,6 @@
 [<img alt="Github @David_Baez" src="https://raw.githubusercontent.com/David-Baez/David-Baez/main/Im%C3%A1genes/Presentaci%C3%B3n.jpg" width="400">](https://github.com/David-Baez)
 
-[<img alt="Github @David_Baez" src="https://cdnm.synack.com/wp-content/uploads/2021/03/SRT-HeroBanner-Hacker5.png" width="240">](https://github.com/David-Baez)
+[<img alt="Github @David_Baez" src="https://avatars.githubusercontent.com/u/93179474?v=4" width="240">](https://github.com/David-Baez)
 
 
 
@@ -24,9 +24,9 @@
 
 > Termux es un emulador de terminal de Android y una aplicación de entorno Linux que funciona directamente sin necesidad de enraizamiento ni configuración. Se instala automáticamente un sistema básico mínimo; hay paquetes adicionales disponibles mediante el administrador de paquetes APT.
 
-<img src="https://termux.com/files/htop_framed.png" height="250px" width="120px"/>    <img src="https://termux.com/files/vim-main_framed.png" height="250px" width="125px"/> 
+<img src="https://termux.dev/assets/globals/home/htop_framed.png" height="250px" width="120px"/>    <img src="https://termux.dev/assets/globals/home/vim-main_framed.png" height="250px" width="125px"/> 
 
-<img src="https://termux.com/files/hello_framed.png" height="250px" width="125px"/>    <img src="https://termux.com/files/weechat-with-keyboard_framed.png" height="250px" width="125px"/>
+<img src="https://termux.dev/assets/globals/home/hello_framed.png" height="250px" width="125px"/>    <img src="https://termux.dev/assets/globals/home/weechat-with-keyboard_framed.png" height="250px" width="125px"/>
 
 ### <a href="https://f-droid.org/repo/com.termux_117.apk">DESCARGA DIRECTA LA APK DE TERMUX</a>
 
