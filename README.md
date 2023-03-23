@@ -81,7 +81,7 @@
 
 [<img alt="Kali Linux" src="https://www.kali.org/images/notebook.svg" width="240">](https://www.kali.org)
 
-[<img alt="Kali Linux" src="https://www.kali.org/images/notebook-kali-2021.2.jpg" width="240">](https://www.kali.org)
+[<img alt="Kali Linux" src="https://www.kali.org/images/notebook-kali-2022.1.jpg" width="240">](https://www.kali.org)
 
 [<img alt="Kali Linux" src="https://www.kali.org/images/kali-desktop-xfce.jpg" width="240">](https://www.kali.org)
 
