@@ -1,5 +1,3 @@
-[<img alt="Github @David_Baez" src="https://raw.githubusercontent.com/David-Baez/David-Baez/main/Im%C3%A1genes/Presentaci%C3%B3n.jpg" width="400">](https://github.com/David-Baez)
-
 [<img alt="Github @David_Baez" src="https://avatars.githubusercontent.com/u/93179474?v=4" width="240">](https://github.com/David-Baez)
 
 
